@@ -6,7 +6,8 @@ Raw Dataset is linked here in the name of framingham.csv for reference.
 The Variable in the dataset explains about 
 
 
-Demographic:
+**Demographic:**
+
 Sex: male or female(Nominal)
 
 Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
@@ -14,14 +15,14 @@ Age: Age of the patient;(Continuous - Although the recorded ages have been trunc
 Education: no further information provided
 
 
-Behavioral:
+**Behavioral:**
 
 Current Smoker: whether or not the patient is a current smoker (Nominal)
 
 Cigs Per Day: the number of cigarettes that the person smoked on average in one day.(can be considered continuous as one can have any number of cigarettes, even half a cigarette.)
 
 
-Information on medical history:
+**Information on medical history:**
 
 BP Meds: whether or not the patient was on blood pressure medication (Nominal)
 
@@ -32,7 +33,7 @@ Prevalent Hyp: whether or not the patient was hypertensive (Nominal)
 Diabetes: whether or not the patient had diabetes (Nominal)
 
 
-Information on current medical condition:
+**Information on current medical condition:**
 
 Tot Chol: total cholesterol level (Continuous)
 
@@ -47,7 +48,7 @@ Heart Rate: heart rate (Continuous - In medical research, variables such as hear
 Glucose: glucose level (Continuous)
 
 
-Target variable to predict:
+**Target variable to predict:**
 
 10 year risk of coronary heart disease (CHD) - (binary: “1”, means “Yes”, “0” means “No”)
 
