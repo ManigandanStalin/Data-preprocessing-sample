@@ -48,9 +48,7 @@ Heart Rate: heart rate (Continuous - In medical research, variables such as hear
 Glucose: glucose level (Continuous)
 
 
-**Target variable to predict:**
 
-10 year risk of coronary heart disease (CHD) - (binary: “1”, means “Yes”, “0” means “No”)
 
 
 Also Python code used for EDA is attached in the name of ML workshop Excersice.ipynb
